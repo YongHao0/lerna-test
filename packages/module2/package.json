@@ -1,10 +1,10 @@
 {
   "name": "wyh-test-module2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "wyh-test-module1": "^0.0.2"
+    "wyh-test-module1": "^0.0.3"
   },
   "gitHead": "d65bad5411b5215d90c30053d863c4c717daa93a"
 }
