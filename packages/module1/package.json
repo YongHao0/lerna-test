@@ -1,6 +1,6 @@
 {
   "name": "wyh-test-module1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "d65bad5411b5215d90c30053d863c4c717daa93a"
